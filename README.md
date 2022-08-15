@@ -2,7 +2,7 @@
 A bot that can be used to fetch random memes from Reddit into the chat in WhatsApp
 
 # Prerequisites
-1. install nodejs in your system
+1.   install nodejs in your system
 
 ## Required Modules
 -> Whatsapp-web-js ```npm i whatsapp-web.js  ```
